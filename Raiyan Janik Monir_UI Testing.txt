@@ -1,0 +1,53 @@
+Web format UI Test:
+1. Live, Life, Smiling:
+> Font is not similiar with design.
+> Facebook, instagram logo decoration in not eaxctly same as design at the top left side of the webpage.
+> Phone number is wrong at the top place
+> Orthodontics, patient resources, contact and downward arrow are missing.
+
+2.Upgrading your smile is easy:
+>Font is not similiar with design.
+
+3.Fifty Years Of Combined Experience:
+> this segment was supposed to be in 3rd number but in webpage it is in the 4th place.
+> In design the tagline is our ptactice but in webpage it's our practices.
+> In webpage, there is an dot(.) before every bullet point of doctor's description but in design, 
+there is nothing like that.
+
+4.Meet our doctors:
+> this segment was supposed to be in 4th number but in webpage it is in the 3rd place.
+> Font is not similiar with design.
+> Both of the Doctor's names are incorrect in webpage.
+
+5. Who we help:
+> this segment was supposed to be in 5th number but in webpage it is in the 6th place.
+> Font is not similiar with design.
+> Kids and adults pictures are placed in the wrong place. 
+> Braces-> and clear aligners-> are missing under every picture in webpage.
+
+6. How we help:
+> this segment was supposed to be in 6th number but in webpage it is in the 5th place.
+> The write up under Braces does not match with design write ups.
+
+7. Get started today:
+> Font is not similiar with design.
+> this segment was supposed to be in 7th number but in webpage it is in the 8th place.
+
+8. Our 5-Star Experience:
+> this segment was supposed to be in 8th number but in webpage it is in the 7th place.
+> The write up Under G** does not match with design write ups.
+> Name of the write is incorrect.
+> the bar between the write up and writer is not in the accurate place as design. 
+
+9. Come visit us:
+> In design the tagline is our locations but in webpage it is our location.
+> In design, there is no bullent point(.) before the addresses but the webpage has.
+> the phone number is incorrect.
+> Map is not same as design.
+> In design, every locations are pointed out in map but in webpage no locations are pointed out. 
+> quick links does not have necessary links as like design.
+> Phone number is incorrect.
+
+
+
+
